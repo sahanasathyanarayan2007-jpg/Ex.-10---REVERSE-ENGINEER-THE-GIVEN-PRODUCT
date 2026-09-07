@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="1280" height="1253" alt="WhatsApp Image 2026-09-01 at 11 00 18 AM" src="https://github.com/user-attachments/assets/2ed78ed3-dee1-4003-a876-e2fc2a75e060" />
+
 
 ### Output:
+<img width="1057" height="742" alt="image" src="https://github.com/user-attachments/assets/51c542fc-4432-4627-ab50-262a1eae68e3" />
+
+<img width="1013" height="713" alt="image" src="https://github.com/user-attachments/assets/572f8b55-ad9e-4002-8d0b-45f181ca87c0" />
 
 
-### Name:
-### Register Number:
+### Name:Sahana.S
+### Register Number:212225240130
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
